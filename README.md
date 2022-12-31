@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YoViajo, a data analyst based in South America
-- 👀 I’m interested in data visualization in a urban, health and sport context
+- 👋 Data analyst in public health
+- 👀 Data visualization and data science
 - 🌱 Self-taught data professional, learning fast
 - 📫 You can reach by e-mail (rcrmj@hotmail.com) or twitter (@rcrmj)
 
