@@ -1,5 +1,5 @@
 # Hello, 👋 I'm Eric 
--  Data analyst in public health
+- 📊 Data analyst in public health
 - 👀 Data visualization and data science
 - 🌱 Self-taught data professional, learning fast
 
