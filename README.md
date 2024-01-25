@@ -2,8 +2,12 @@
 - 📊 Data analyst in public health
 - 👀 Data visualization and data science
 - 🌱 Self-taught data professional, learning fast
+- ⚗️ FOSS fan
 
 # Skills
+- 🧶 Geospatial analysis
+- 🛠️ Database management
+- 🕯️ English, Spanish, French & Portuguese
 
 # Recent projects
 
