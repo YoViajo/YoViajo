@@ -1,18 +1,19 @@
-# Hello, 👋 I'm Eric 
-- 📊 Data analyst in public health
-- 👀 Data visualization and data science
-- 🌱 Self-taught data professional, learning fast
+# Hola, 👋 Soy Eric 
+- 📊 Analista de datos en salud pública
+- 👀 Visualización y ciencia de datos
+- 🌱 Profesional autodidacta de los datos, aprendiendo rápido
 - ⚗️ FOSS fan
 
-# Skills
-- 🧶 Geospatial analysis
-- 🛠️ Database management
-- 🕯️ English, Spanish, French & Portuguese
+# Habilidades
+- 🧶 Limpieza y organización de datos complejos
+- 🧶 Análisis geoespacial
+- 🛠️ Gestión de base de datos relacionales
+- 🕯️ Inglés, Español, Francés y Portugués
 
-# Recent projects
+# Proyectos recientes
 
 
-# Connect
+# Conexión
 [Twitter](https://twitter.com/rcrmj)
 
 [Mastodon](https://vis.social/@YoViajo)
