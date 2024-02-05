@@ -2,7 +2,7 @@
 - 📊 Analista de datos en salud pública
 - 👀 Visualización y ciencia de datos
 - 🌱 Profesional autodidacta de los datos, aprendiendo rápido
-- ⚗️ FOSS fan
+- ⚗️ fan del software libre
 
 # Habilidades
 - 🧶 Limpieza y organización de datos complejos
