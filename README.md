@@ -2,7 +2,7 @@
 - 📊 Analista de datos en salud pública
 - 👀 Visualización y ciencia de datos
 - 🌱 Profesional autodidacta de los datos, aprendiendo rápido
-- ⚗️ Apoyo el proyecto OpenStreetMap y QGIS
+- ⚗️ Apoyo los proyectos OpenStreetMap y QGIS
 - ⚗️ Fan del software libre
 
 # Habilidades
