@@ -1,5 +1,5 @@
 # Hola, 👋 Soy Eric 
-- 📊 Analista de datos en salud pública
+- 📊 Analista de datos, actualmente enfocado en salud pública
 - 👀 Visualización y ciencia de datos
 - 🌱 Profesional autodidacta de los datos, aprendiendo rápido
 - ⚗️ Apoyo los proyectos OpenStreetMap y QGIS
