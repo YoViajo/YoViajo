@@ -17,7 +17,7 @@
 # Conexión
 [Twitter](https://twitter.com/rcrmj)
 
-[Mastodon](https://vis.social/@YoViajo)
+[Blue Sky](@yoviajo.bsky.social)
 
 <!---
 YoViajo/YoViajo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
