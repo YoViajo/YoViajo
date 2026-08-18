@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eric Armijo
 
-**Geógrafo (SIG/teledetección) y analista de datos.** Trabajo en el sector corporativo en inteligencia de negocios; en este espacio comparto proyectos personales de **datos abiertos, geoespacial e IA aplicada** para Bolivia.
+**Analista de datos, con formación en geografía (SIG/teledetección).** Trabajo en el sector corporativo en inteligencia de negocios; en este espacio comparto proyectos personales de **datos abiertos, geoespacial e IA aplicada** para Bolivia.
 
 ---
 
