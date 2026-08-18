@@ -26,7 +26,7 @@
 | Área | Herramientas |
 |---|---|
 | SIG y cartografía | QGIS, ArcGIS, PostGIS, GDAL/OGR |
-| Lenguajes | R, Python, SQL |
+| Lenguajes | Python, SQL, R |
 | IA / automatización | LLMs locales (Ollama), agentes de código, OCR+LLM, RAG |
 | BI y visualización | Power BI, Looker Studio |
 
