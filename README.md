@@ -6,9 +6,9 @@
 
 ## 🌍 Qué exploro aquí
 
+- **IA aplicada a datos** — agentes y automatización con LLMs (OCR+LLM, RAG local, extracción de datos no estructurados), priorizando herramientas locales/autoalojadas sobre SaaS
 - **Geodatos abiertos de Bolivia** — recopilación y limpieza de capas y series públicas
 - **Análisis geoespacial** — QGIS, PostGIS, cartografía, visualización territorial
-- **IA aplicada a datos** — agentes y automatización con LLMs (OCR+LLM, RAG local, extracción de datos no estructurados), priorizando herramientas locales/autoalojadas sobre SaaS
 
 ## 📌 Proyectos destacados
 
