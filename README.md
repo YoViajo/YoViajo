@@ -1,72 +1,41 @@
 # 👋 Hola, soy Eric Armijo
 
-🎯 **Consultor en Inteligencia de Ubicación | Analista de Datos | Geógrafo SIG**
-
-Con base en Santa Cruz de la Sierra, Bolivia, combino más de 20 años de experiencia en análisis geoespacial, sistemas de información y visualización de datos con un enfoque actual en analítica de negocios y geomarketing. Trabajo como consultor independiente a través de **Heuris**, ayudando a empresas del sector inmobiliario, turismo y comercio a tomar decisiones estratégicas basadas en datos territoriales.
+**Geógrafo (SIG/teledetección) y analista de datos.** Trabajo en el sector corporativo en inteligencia de negocios; en este espacio comparto proyectos personales de **datos abiertos, geoespacial e IA aplicada** para Bolivia.
 
 ---
 
-## 🧠 Áreas de experiencia
+## 🌍 Qué exploro aquí
 
-- 📍 **Geomarketing** y segmentación territorial  
-- 📊 **Analítica de datos** y dashboards en Power BI y R  
-- 🌍 **Sistemas de Información Geográfica (GIS)**: QGIS, ArcGIS  
-- 🧮 **Modelado y visualización** con R, Python, SQL  
-- ⚙️ **ETL & Automatización** de procesos de datos  
-- 📈 **Inteligencia de negocios** (en formación de maestría)
+- **Geodatos abiertos de Bolivia** — recopilación y limpieza de capas y series públicas
+- **Análisis geoespacial** — QGIS, PostGIS, cartografía, visualización territorial
+- **IA aplicada a datos** — agentes y automatización con LLMs (OCR+LLM, RAG local, extracción de datos no estructurados), priorizando herramientas locales/autoalojadas sobre SaaS
 
----
+## 📌 Proyectos destacados
 
-## 🔧 Herramientas y tecnologías
+| Proyecto | Qué es |
+|---|---|
+| [geodatos](https://github.com/YoViajo/geodatos) | Geodatos abiertos de Bolivia — capas y series consolidadas para uso público |
+| [geoespacial](https://github.com/YoViajo/geoespacial) | Herramientas y técnicas de análisis geoespacial |
+| [electoral](https://github.com/YoViajo/electoral) | Visualización y análisis electoral de Bolivia |
+| [cartografia](https://github.com/YoViajo/cartografia) | Herramientas y técnicas de cartografía |
+| [openstreetmap](https://github.com/YoViajo/openstreetmap) | Exploración de datos de OpenStreetMap |
+| [30-day-map-challenge](https://github.com/YoViajo/30-day-map-challenge) | Participación en el #30DayMapChallenge |
 
-| BI & Datos | SIG & Cartografía | Lenguajes | Otros |
-|------------|------------------|-----------|--------|
-| Power BI, Looker Studio, Excel Avanzado | QGIS, ArcGIS, uMap, Carto | R, Python, SQL | Git, VS Code, Markdown |
+## 🔧 Herramientas
 
----
+| Área | Herramientas |
+|---|---|
+| SIG y cartografía | QGIS, ArcGIS, PostGIS, GDAL/OGR |
+| Lenguajes | R, Python, SQL |
+| IA / automatización | LLMs locales (Ollama), agentes de código, OCR+LLM, RAG |
+| BI y visualización | Power BI, Looker Studio |
 
-## 👨‍🏫 Formación académica
+## 🎓 Formación
 
-- 🎓 Maestría (en curso), **Inteligencia de Negocios** – Univ. Católica Boliviana  
-- 🎓 Diplomado, **Marketing Analytics** – Univ. Franz Tamayo  
-- 🎓 Maestría, **Geografía (SIG & Teledetección)** – Univ. of Maryland (Fulbright Fellow)  
-- 🎓 Licenciatura, **Ingeniería de Sistemas** – UPSA
+Maestría en Geografía — SIG y Teledetección, University of Maryland (Beca Fulbright) · Maestría en Inteligencia de Negocios, UCB (en curso) · Ingeniería de Sistemas, UPSA
 
----
+## 🔗 Contacto
 
-## 🌍 Idiomas
-
-- Español (nativo)  
-- Inglés (avanzado – C1)  
-- Portugués (intermedio)  
-- Francés (intermedio)
-
----
-
-## 🔗 Contacto y redes
-
-- 📫 [earmijo.prof@gmail.com](mailto:earmijo.prof@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ericarmijo)  
-- 🗺️ [Mi portafolio / perfil corto](http://bit.ly/earmijo/)  
+- 📫 [earmijo.prof@gmail.com](mailto:earmijo.prof@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ericarmijo)
 - 💻 GitHub: [@YoViajo](https://github.com/YoViajo)
-
----
-
-## 🚀 Proyectos destacados (en preparación)
-
-Estoy organizando una serie de repositorios con ejemplos prácticos en:
-
-- Geomarketing con datos abiertos (OpenStreetMap, Google Places API)  
-- Análisis territorial aplicado a turismo y bienes raíces  
-- Dashboards de salud pública y gestión urbana  
-- Visualización bivariada de clima en R (inspirado en @VictimOfMaths)
-
-> Si te interesa colaborar o conversar sobre inteligencia geoespacial, ¡escríbeme!
-
----
-
-
-<!---
-YoViajo/YoViajo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
